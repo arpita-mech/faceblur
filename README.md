@@ -14,3 +14,5 @@ Features:
 • Privacy protection in video conferencing
 • Anonymizing faces in recorded footage
 • Enhancing security in public surveillance
+
+# Technologies: Python, OpenCV, MediaPipe
